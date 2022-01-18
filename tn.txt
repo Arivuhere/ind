@@ -1,0 +1,21 @@
+<DOCTYPE html!>
+<html>
+<head>
+<style>
+ .dy{
+  background colour : green;
+  color:black;
+  font-size: 30px;
+  font-family: verdana;
+  left padding: 50px
+}
+</style>
+<title> CANADA</title>
+<head>
+<body>
+<h1 class = .dy > THIS IS NOTHING BUT A SAMPLE CODE FOR HTML<h1>
+<p class = .dy > HTML is an easdy languade we can see may moe set of tags there , for example h tag is used for 
+head lines and p tages use to write an paragraph, html tag is protocol to build a HTML CODE . the tag head ia used to define an header tag in a wep page . style tag is used to define the styles of an webpage.
+</p>
+</body>
+</html>
